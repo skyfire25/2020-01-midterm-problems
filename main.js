@@ -1,10 +1,39 @@
+
 /******************
  * YOUR CODE HERE *
  ******************/
+const fizzBuzzSingleNumber = function(number){
+  if ( number % 3 && number % 5){
+  
+  }else{
+  return 'fizzBuzz'
+  }
 
+const getMiddleLetters = function(str){
 
+const getNextLetter= function(n){
+let singleLetter = n
+if ()
+}
 
+const getAverage= function (){
 
+}
+const triStateAreaOnly= function () {
+
+}
+const removeTrolls= function () {
+
+}
+const cipher= function () {
+
+}
+const addToMultiDigitNumbers= function() {
+
+}
+const hyphenateNames= function () {
+
+}
 
 /*********************************
  * OUR CODE BELOW; DO NOT TOUCH! *
